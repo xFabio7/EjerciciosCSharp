@@ -1,0 +1,13 @@
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/bin/Debug/netcoreapp3.1/EjerciciosCSharp.deps.json
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/bin/Debug/netcoreapp3.1/EjerciciosCSharp.runtimeconfig.json
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/bin/Debug/netcoreapp3.1/EjerciciosCSharp.runtimeconfig.dev.json
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/bin/Debug/netcoreapp3.1/EjerciciosCSharp.dll
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/bin/Debug/netcoreapp3.1/EjerciciosCSharp.pdb
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/obj/Debug/netcoreapp3.1/EjerciciosCSharp.csproj.AssemblyReference.cache
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/obj/Debug/netcoreapp3.1/EjerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/obj/Debug/netcoreapp3.1/EjerciciosCSharp.AssemblyInfoInputs.cache
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/obj/Debug/netcoreapp3.1/EjerciciosCSharp.AssemblyInfo.cs
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/obj/Debug/netcoreapp3.1/EjerciciosCSharp.csproj.CoreCompileInputs.cache
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/obj/Debug/netcoreapp3.1/EjerciciosCSharp.dll
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/obj/Debug/netcoreapp3.1/EjerciciosCSharp.pdb
+/Users/xfabio7/Desktop/UTAD-2021/C#/EjerciciosCSharp/EjerciciosCSharp/obj/Debug/netcoreapp3.1/EjerciciosCSharp.genruntimeconfig.cache
